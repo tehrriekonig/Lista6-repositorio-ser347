@@ -1,0 +1,13 @@
+Atividade GitHub – referente a lista 6
+
+Primeiramente eu criei um novo repositório, chamado Lista6-repositorio-ser347 no GitHub.
+Depois usei o comando git clone para criar uma cópia desse repositório no meu computador
+Adicionei os arquivod referentes aos exercícios da lista 6 no repositório criado no computador.
+Usei o comando git status para verificar se os arquivos foram "reconhecidos".
+Usei o comando git add para adicionar os arquivos
+Na sequencia verifiquei o status, para ver se os arquivos estavam prontos para o comando "committed"
+Utilizei o comando git commit nos arquivos
+Dei o comando git pull para atualizar os arquivos
+E git push para envia-los para ao repositório GitHub.
+E pronto.
+:)
